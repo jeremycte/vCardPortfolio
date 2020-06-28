@@ -20,7 +20,12 @@ buttons.forEach(btn => {
 });
 
 var worktgtbtn = document.querySelector(".contact-me").addEventListener("click", handleContactBtn)
+var learnmorebtn = document.querySelector(".learn-more").addEventListener("click", handleLearnMoreBtn)
 
 function handleContactBtn(){
     window.location.href = "https://jeremychan.co/#contact";
 };
+
+function handleLearnMoreBtn(){
+  window.location.href = "https://jeremychan.co/#about";
+}
