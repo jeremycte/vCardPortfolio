@@ -23,9 +23,9 @@ var worktgtbtn = document.querySelector(".contact-me").addEventListener("click",
 var learnmorebtn = document.querySelector(".learn-more").addEventListener("click", handleLearnMoreBtn)
 
 function handleContactBtn(){
-    window.location.href = "https://jeremychan.co/#contact";
+    window.location.href = "https://jeremycte.com/#contact";
 };
 
 function handleLearnMoreBtn(){
-  window.location.href = "https://jeremychan.co/#about";
+  window.location.href = "https://jeremycte.com/#about";
 }
