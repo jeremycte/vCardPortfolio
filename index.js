@@ -21,6 +21,7 @@ buttons.forEach(btn => {
 
 var worktgtbtn = document.querySelector(".contact-me").addEventListener("click", handleContactBtn)
 var learnmorebtn = document.querySelector(".learn-more").addEventListener("click", handleLearnMoreBtn)
+var freshmankitbtn = document.querySelector(".learn-more").addEventListener("click", handleFreshmanKitBtn)
 
 function handleContactBtn(){
     window.location.href = "https://jeremycte.com/#contact";
@@ -28,4 +29,8 @@ function handleContactBtn(){
 
 function handleLearnMoreBtn(){
   window.location.href = "https://jeremycte.com/#about";
+}
+
+function handleFreshmanKitBtn(){
+  window.location.href = "https://nuscomputingfreshmankit.surge.sh";
 }
