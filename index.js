@@ -21,7 +21,8 @@ buttons.forEach(btn => {
 
 var worktgtbtn = document.querySelector(".contact-me").addEventListener("click", handleContactBtn)
 var learnmorebtn = document.querySelector(".learn-more").addEventListener("click", handleLearnMoreBtn)
-var freshmankitbtn = document.querySelector(".learn-more").addEventListener("click", handleFreshmanKitBtn)
+var freshmankitbtn = document.querySelector(".freshman-kit").addEventListener("click", handleFreshmanKitBtn)
+var emcccrewbtn = document.querySelector(".emcc-crew").addEventListener("click", handleEMCCCrewBtn)
 
 function handleContactBtn(){
     window.location.href = "https://jeremycte.com/#contact";
@@ -33,4 +34,8 @@ function handleLearnMoreBtn(){
 
 function handleFreshmanKitBtn(){
   window.location.href = "https://nuscomputingfreshmankit.surge.sh";
+}
+
+function handleEMCCCrewBtn() {
+  window.location.href = "https://nusemcccrew.com/training"
 }
