@@ -23,6 +23,7 @@ var worktgtbtn = document.querySelector(".contact-me").addEventListener("click",
 var learnmorebtn = document.querySelector(".learn-more").addEventListener("click", handleLearnMoreBtn)
 var freshmankitbtn = document.querySelector(".freshman-kit").addEventListener("click", handleFreshmanKitBtn)
 var emcccrewbtn = document.querySelector(".emcc-crew").addEventListener("click", handleEMCCCrewBtn)
+var dscnusbtn = document.querySelector(".dsc-nus").addEventListener("click", handleDSCNUSBtn)
 
 function handleContactBtn(){
     window.location.href = "https://jeremycte.com/#contact";
@@ -38,4 +39,8 @@ function handleFreshmanKitBtn(){
 
 function handleEMCCCrewBtn() {
   window.location.href = "https://nusemcccrew.com/training"
+}
+
+function handleDSCNUSBtn() {
+  window.location.href = "https://bit.ly/DSCNUS2021"
 }
