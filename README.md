@@ -1,7 +1,7 @@
 # vCardPortfolio Intro
 This is a repository for my vCardPortfolio for my website and for instagram.
 
-![JEREMY CTE Hello HOMEPAGE](https://res.cloudinary.com/jeremycte/image/upload/v1627327112/jeremyctehello_homepage_ngii2b.png)
+![JEREMY CTE Hello HOMEPAGE](http://jeremycte.com/hello/images/thumbnail_1400.png)
 
 
 ## At a Glance 🔥
