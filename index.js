@@ -42,5 +42,5 @@ function handleEMCCCrewBtn() {
 }
 
 function handleDSCNUSBtn() {
-  window.location.href = "https://bit.ly/DSCNUS2021"
+  window.location.href = "https://www.youtube.com/c/JoelWongJY"
 }
