@@ -1,7 +1,7 @@
 # vCardPortfolio Intro
 This is a repository for my vCardPortfolio for my website and for instagram.
 
-![JEREMY CTE Hello HOMEPAGE](http://jeremycte.com/hello/images/thumbnail_1400.png)
+![JEREMY CTE Hello HOMEPAGE](https://github.com/jeremycte/vCardPortfolio/blob/master/jeremyctehello_homepage_ngii2b.png)
 
 
 ## At a Glance 🔥
